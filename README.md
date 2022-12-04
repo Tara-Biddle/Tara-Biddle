@@ -1,4 +1,7 @@
-### Hi there 👋
+- 👋 Hi I'm Tara
+- 🔭 I’m currently building a portfolio to showcase my skills in Data Analysis.
+- ⚡ I use python (jupyter notebook), SQL, and shell script
+
 
 <!--
 **Tara-Biddle/Tara-Biddle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
