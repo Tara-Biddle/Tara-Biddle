@@ -1,6 +1,6 @@
 - 👋 Hi I'm Tara
-- 🔭 I’m currently building a portfolio to showcase my skills in Data Analysis.
-- ⚡ I use python (jupyter notebook), SQL, and shell script
+- 🔭 I am using this account to showcase some of my projects, feedback is very welcome thank you
+- ⚡ I use python (jupyter notebook), MySQL, and shell script
 
 
 <!--
